@@ -1,2 +1,2 @@
 # ReactChromiumExtensionTemplate
-A React template for chromium extensions 
+A React template for chromium extensions using webpack
